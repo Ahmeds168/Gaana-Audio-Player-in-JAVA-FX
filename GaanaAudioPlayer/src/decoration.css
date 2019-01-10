@@ -1,0 +1,22 @@
+.root{
+   
+    -fx-background-color:#ff7700;
+}
+
+.button{
+    
+    -fx-background-color:#888888;
+    -fx-border-radius:100%;
+    
+}
+
+.button:hover{
+    -fx-background-color:#0055ff;
+    -fx-cursor:hand;
+    
+}
+.scene:drop(active){
+    
+    -fx-border-radius: 50%;
+    
+}
